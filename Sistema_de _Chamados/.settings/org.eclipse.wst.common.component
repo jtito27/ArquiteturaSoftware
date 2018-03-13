@@ -2,6 +2,9 @@
     <wb-module deploy-name="Sistema_de _Chamados">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="spring-web-4.2.4.RELEASE.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/spring-web-4.2.4.RELEASE/spring-web-4.2.4.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="Sistema_de_Chamados"/>
         <property name="java-output-path" value="/Sistema_de _Chamados/build/classes"/>
     </wb-module>
