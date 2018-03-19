@@ -16,7 +16,6 @@ public class FilaService {
 		return dao.listarFilas();
 	}
 	public Fila carregar(int id) throws IOException{
-		// TODO Auto-generated method stub
 		return dao.carregar(id);
 	}
 }
