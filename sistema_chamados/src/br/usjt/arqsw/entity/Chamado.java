@@ -16,6 +16,7 @@ import javax.validation.constraints.Size;
  * 
  * @author João Victor
  * @RA 201516689
+ * @Year 2018
  */
 @Entity
 public class Chamado {

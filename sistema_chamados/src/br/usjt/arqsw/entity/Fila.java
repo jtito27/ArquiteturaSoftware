@@ -13,6 +13,7 @@ import javax.validation.constraints.Size;
  * 
  * @author João Victor
  * @RA 201516689
+ * @Year 2018
  */
 public class Fila implements Serializable{
 	private static final long serialVersionUID = 1L;
