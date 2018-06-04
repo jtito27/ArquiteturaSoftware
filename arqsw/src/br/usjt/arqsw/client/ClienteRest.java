@@ -10,7 +10,11 @@ import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 @Component
 public class ClienteRest {
 

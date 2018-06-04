@@ -2,7 +2,11 @@ package nomesfactory;
 
 import java.util.HashSet;
 import java.util.Set;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 
 public abstract class AplicacaoNomes {
 	private Set<Nome> nomes = new HashSet<Nome>();

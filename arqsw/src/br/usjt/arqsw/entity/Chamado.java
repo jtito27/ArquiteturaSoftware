@@ -18,7 +18,11 @@ import javax.validation.constraints.Size;
 import org.hibernate.validator.constraints.NotEmpty;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 
 @Entity
 @Table(name = "chamado")

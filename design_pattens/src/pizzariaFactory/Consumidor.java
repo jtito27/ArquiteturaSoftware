@@ -1,4 +1,9 @@
 package pizzariafactory;
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 
 import static java.util.Calendar.DAY_OF_WEEK;
 import static java.util.Calendar.FRIDAY;

@@ -1,4 +1,9 @@
 package impressaoAbstractFactory;
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 public class TestFactory {
 
 	public static void main(String[] args) {

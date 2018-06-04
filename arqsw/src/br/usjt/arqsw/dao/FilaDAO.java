@@ -9,7 +9,11 @@ import javax.persistence.PersistenceContext;
 import org.springframework.stereotype.Repository;
 
 import br.usjt.arqsw.entity.Fila;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 
 @Repository
 public class FilaDAO {

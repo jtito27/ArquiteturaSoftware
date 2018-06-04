@@ -1,5 +1,9 @@
 package br.usjt.arqsw.client;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 public class Cliente {
 	private int id;
 	private String first_name;

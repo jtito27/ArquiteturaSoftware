@@ -15,7 +15,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import br.usjt.arqsw.entity.Usuario;
 import br.usjt.arqsw.service.UsuarioService;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 @Controller
 @Transactional
 public class UsuarioController {

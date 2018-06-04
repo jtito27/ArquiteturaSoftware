@@ -1,5 +1,9 @@
 package nomesfactory;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 import javax.swing.JOptionPane;
 
 

@@ -1,5 +1,9 @@
 package pizzariafactory;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 
 public class PizzaioloPresunto implements Pizzaiolo {
 

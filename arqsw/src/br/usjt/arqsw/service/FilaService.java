@@ -15,7 +15,11 @@ import org.springframework.web.multipart.MultipartFile;
 
 import br.usjt.arqsw.dao.FilaDAO;
 import br.usjt.arqsw.entity.Fila;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 
 @Service
 public class FilaService {

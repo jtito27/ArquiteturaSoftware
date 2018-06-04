@@ -4,7 +4,11 @@ import java.io.File;
 import java.util.Scanner;
 
 import util.ResourceUtils;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 public class ProvedorPublico extends ProvedorInformacao {
 
 	protected String recuperarInformacao() {

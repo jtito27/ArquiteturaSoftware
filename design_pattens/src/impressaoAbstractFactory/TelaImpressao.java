@@ -1,4 +1,9 @@
 package impressaoAbstractFactory;
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 public class TelaImpressao implements Impressao{
 
 	@Override

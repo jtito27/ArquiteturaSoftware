@@ -1,7 +1,11 @@
 package br.usjt.arqsw.client;
 
 import java.util.List;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 public class PaginaCliente {
 	private int page;
 	private int per_page;

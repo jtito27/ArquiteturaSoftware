@@ -1,7 +1,11 @@
 package senhafactory;
 
 import javax.swing.JOptionPane;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 
 public class Main {
 

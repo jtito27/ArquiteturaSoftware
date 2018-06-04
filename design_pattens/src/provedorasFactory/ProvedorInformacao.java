@@ -3,7 +3,11 @@ package senhafactory;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-
+/**
+ * 
+ * @author João Victor
+ * @RA 201516689
+ */
 
 public abstract class ProvedorInformacao {
 	protected abstract String recuperarInformacao();

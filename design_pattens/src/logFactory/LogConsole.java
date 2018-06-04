@@ -1,1 +1,1 @@
-package logfactory;public class LogConsole extends Log {	protected FerramentaLog criarFerramentaLog() {		return new FerramentaLogConsole();	}}
+package logfactory;/** *  * @author João Victor * @RA 201516689 */public class LogConsole extends Log {	protected FerramentaLog criarFerramentaLog() {		return new FerramentaLogConsole();	}}
